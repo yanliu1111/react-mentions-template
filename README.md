@@ -33,7 +33,3 @@ ps: When I create react app, before running npm run start, I changed the script 
 ```
 
 ## Demo
-
-<video width="320" height="240" controls>
-  <source src="https://github.com/yanliu1111/react-mentions-template/blob/main/demo.mp4" type="video/mp4">
-</video>
