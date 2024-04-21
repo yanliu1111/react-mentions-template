@@ -34,6 +34,8 @@ ps: When I create react app, before running npm run start, I changed the script 
 
 ## Demo
 
-<video width="320" height="240">
-  <source src="https://github.com/yanliu1111/react-mentions-template/assets/105611260/4b133539-6409-4f5c-8b26-d1f9207ce9a2" type="video/mp4">
-</video>
+<video width="320" src="https://github.com/yanliu1111/react-mentions-template/assets/105611260/4b133539-6409-4f5c-8b26-d1f9207ce9a2.mp4"></video>
+
+
+
+
