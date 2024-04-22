@@ -1,6 +1,6 @@
 # React Mentions Template
 
-Purpose of this template: I start researching how to build mentions feature in comments section, and learn `react-mentions` library. This is the simple template to start using mentions feature in a comment input box.
+Purpose of this template: I start researching how to build mentions feature in comments section, and learn [react-mentions](https://github.com/signavio/react-mentions) library. This is the simple template to start using mentions feature in a comment input box.
 
 ## To run the template
 
